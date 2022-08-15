@@ -1,0 +1,92 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Electrical_course\T6\FPGA\Project\Phase1\verilog
+T_opt
+Ve6J@9YzFKYCIlFPR;9_ee3
+Z1 04 5 4 work rx_tb fast 0
+=1-0862661f051d-60bdf754-149-d58
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dD:\Electrical_course\T6\FPGA\Project\Phase1\verilog
+T_opt1
+V21DV^RA3Qj8cg7UUCMRfQ2
+R1
+=1-0862661f051d-60bdf774-39e-758
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+vrx
+I`F7AALga^k2?b6>=FYPH;3
+ViQR]lXB]`MU5i>Hn>obaz3
+Z4 dD:\Electrical_course\T6\FPGA\Project\Phase1\verilog\rx
+w1623062311
+8D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx.v
+FD:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx.v
+L0 21
+Z5 OL;L;10.1c;51
+r1
+31
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 20g9MTTf>1ooTTbA5dYVM3
+!s108 1623062319.665000
+!s107 D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx.v|
+!s90 -reportprogress|300|-work|work|D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx.v|
+!i10b 1
+!s85 0
+vrx_tb
+Ij=R8W37fc>bODiUe?750L3
+V1olIUnE0VP8<mlN@49ZHE1
+R4
+w1622878239
+Z7 8D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx_tb.v
+Z8 FD:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx_tb.v
+L0 21
+R5
+r1
+31
+R6
+Z9 !s107 D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx_tb.v|
+!s100 d1N8J;c7MTG3kVC:VAM0P0
+!s90 -reportprogress|300|-work|work|D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx_tb.v|
+!s108 1623062319.827000
+!i10b 1
+!s85 0
+vscrambler
+IX5>a8EYYUAZJU>2HAZJ[Z3
+V?Wn3Yj3YDC2<3GZIFTE=W1
+R4
+w1622869331
+8D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/scrambler.v
+FD:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/scrambler.v
+L0 21
+R5
+r1
+31
+R6
+!s100 JFofbR7Ff5mJQTzil]S193
+!s90 -reportprogress|300|-work|work|D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/scrambler.v|
+!i10b 1
+!s85 0
+!s108 1623062319.999000
+!s107 D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/scrambler.v|
+vtx_tb
+IN=K2kf`beMi_2;hMQZ8K;0
+V80BEi<7<T@S?f3gIT6Bg80
+R4
+w1622878128
+R7
+R8
+L0 21
+R5
+r1
+31
+R6
+R9
+!s90 -reportprogress|300|-work|work|-vopt|D:/Electrical_course/T6/FPGA/Project/Phase1/verilog/rx/rx_tb.v|
+!s100 HY12ZG0KoM:2LlFU6Y?=>2
+!s108 1622878220.355000
+!i10b 1
+!s85 0

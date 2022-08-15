@@ -1,0 +1,48 @@
+m255
+K3
+13
+cModel Technology
+dC:\modeltech64_10.1c\examples
+T_opt
+VD>BFcfIn19`0;TkQ7Ooc`3
+04 14 4 work interleaver_tb fast 0
+=1-0862661f051d-60dc5910-36b-706c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vinterleaver
+!s100 :?FgQ@9ARX4PX3MFDDQ2A0
+I_XPjT<eR[>C@kfnD2Ec]E3
+V3UDP`gH@Z;heG2Bh`P^2[1
+Z0 dD:\Electrical_course\T6\FPGA\Project\phase3\verilog\interleaver
+w1625048956
+8D:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver.v
+FD:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver.v
+L0 1
+Z1 OL;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s108 1625053450.395000
+!s107 D:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver.v|
+!s90 -reportprogress|300|-work|work|D:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver.v|
+!i10b 1
+!s85 0
+vinterleaver_tb
+I`<fJdO<QgDY;m`M=PV_R<3
+VK1D=>CHa4z5mGbkf7e]fc1
+Z3 dD:\Electrical_course\T6\FPGA\Project\phase3\verilog\interleaver
+w1625053352
+8D:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver_tb.v
+FD:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver_tb.v
+L0 1
+R1
+r1
+31
+R2
+!i10b 1
+!s100 iIN7?9ROeDN]WCb>4=o8O1
+!s85 0
+!s108 1625053450.557000
+!s107 D:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver_tb.v|
+!s90 -reportprogress|300|-work|work|D:/Electrical_course/T6/FPGA/Project/phase3/verilog/interleaver/interleaver_tb.v|

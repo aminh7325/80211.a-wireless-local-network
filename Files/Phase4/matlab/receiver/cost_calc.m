@@ -1,0 +1,23 @@
+ function [out]= cost_calc(in1,in2)
+    if(in1==in2)
+      out=0;  
+    end
+    if(in1==1&&in2==2||in2==1&&in1==2)
+      out=1;  
+    end
+    if(in1==1&&in2==3||in2==1&&in1==3)
+      out=1;  
+    end
+        if(in1==1&&in2==4||in2==1&&in1==4)
+      out=2;  
+        end
+        if(in1==2&&in2==3||in2==2&&in1==3)
+      out=2;
+        end
+    if(in1==2&&in2==4||in2==2&&in1==4)
+      out=1;  
+        end
+     if(in1==3&&in2==4||in2==3&&in1==4)
+      out=1;  
+    end
+    end

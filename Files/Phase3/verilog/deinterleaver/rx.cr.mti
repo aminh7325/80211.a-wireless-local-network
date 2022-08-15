@@ -1,0 +1,15 @@
+D:/Electrical_course/T6/FPGA/Project/phase3/verilog/deinterleaver/deinterleaver.v {1 {vlog -work work -vopt D:/Electrical_course/T6/FPGA/Project/phase3/verilog/deinterleaver/deinterleaver.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module deinterleaver
+
+Top level modules:
+	deinterleaver
+
+} {} {}} D:/Electrical_course/T6/FPGA/Project/phase3/verilog/deinterleaver/deinterleaver_tb.v {1 {vlog -work work -vopt D:/Electrical_course/T6/FPGA/Project/phase3/verilog/deinterleaver/deinterleaver_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module deinterleaver_tb
+
+Top level modules:
+	deinterleaver_tb
+
+} {} {}}

@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+dD:\Electrical_course\T6\FPGA\Project\phase2\verilog\tx
+vencoder
+VB3Jh5>@U]8kAP7[Q70[IP1
+r1
+31
+IhijhI:CE2gIBU1@2mm8fU0
+Z0 dD:\Electrical_course\T6\FPGA\Project\phase2\verilog\encoder\extra
+w1624186895
+8D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encod.v
+FD:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encod.v
+L0 22
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encod.v|
+!s100 G27U=M_QCnEnOc?F5=I2i0
+!s108 1624186915.739000
+!s107 D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encod.v|
+!i10b 1
+vencoder_tb
+V02Mj_hG1f3l4;lFeg52aW2
+r1
+31
+IBSP9`U?0K2[>:Oz8U?<>Z3
+Z3 dD:\Electrical_course\T6\FPGA\Project\phase2\verilog\encoder\extra
+w1624186882
+8D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb.v
+FD:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb.v
+L0 21
+R1
+R2
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb.v|
+!s100 8LjhHj<nmCDWV[1FSg[z81
+!s108 1624186915.976000
+!s107 D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb.v|
+!i10b 1
+vencoder_tb1
+V7[9?B@N>9S0bgAOQlZjTJ1
+r1
+31
+IQ5617L6z0bec@:h?:M1m81
+R3
+w1624186881
+8D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate1.v
+FD:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate1.v
+L0 21
+R1
+R2
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate1.v|
+!s100 V]ER2nlQ5CW^k@M5_I5jR1
+!s108 1624186916.119000
+!s107 D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate1.v|
+!i10b 1
+vencoder_tb2
+VCG2aN?EZLWREmZN_ZnjM:3
+r1
+!s85 0
+31
+I4fcSVDQIYZ8k@HKD[lfzm2
+R3
+w1624186880
+8D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate2.v
+FD:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate2.v
+L0 21
+R1
+R2
+!s90 -reportprogress|300|-work|work|-vopt|D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate2.v|
+!i10b 1
+!s100 WS9kdVazmKS:lao3BP1Rm2
+!s108 1624186916.321000
+!s107 D:/Electrical_course/T6/FPGA/Project/phase2/verilog/encoder/extra/encoder_tb_rate2.v|
